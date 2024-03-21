@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=#339933" />
+<img src="https://img.shields.io/badge/Node.js-20232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=#339933" />
 
 <!--
 **HUJO733/HUJO733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
