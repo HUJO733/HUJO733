@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-20232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=#339933" /> <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=#3776AB" />
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-20232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=#339933" /> <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=#3776AB" /> <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" />
 
+ 
 <!--
 **HUJO733/HUJO733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
