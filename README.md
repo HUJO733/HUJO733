@@ -23,6 +23,8 @@
     <br/>
     <br/>
     <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUJO733&layout=compact&theme=nord&hide_border=true" />
+    <br/>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=HUJO733&theme=vue&hide_border=true)](https://git.io/streak-stats)
   </div>
 
 
