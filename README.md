@@ -14,11 +14,11 @@
     <h3 align="center">Tools</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Git-F05033.svg?style=flat&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat&logo=visual-studio-code&logoColor=22ABF3" />
       </div>
       <div align="center">
+        <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" />
         <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat&logo=visual-studio-code&logoColor=22ABF3" />
       </div>
     <br/>
     <br/>
