@@ -8,8 +8,8 @@
       <div align="center">
         <img src="https://img.shields.io/badge/Git-F05033.svg?style=flat&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat&logo=visual-studio-code&logoColor=22ABF3" />
-        <img src="https://img.shields.io/badge/Jenkins-2C2C32.svg?style=flat&logo=jenkins&logoColor=D24939" />
-        <img src="https://img.shields.io/badge/Slack-2C2C32.svg?style=flat&logo=slack&logoColor=4A154B" />
+        <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=flat&logo=jenkins&logoColor=white" />
+        <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=flat&logo=slack&logoColor=white" />
       </div>
       </div>
     <br/>
