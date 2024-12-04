@@ -2,9 +2,8 @@
   <div align="center">
     <h4>Back-end</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
       <br/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
     <h4>Front-end</h4>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
